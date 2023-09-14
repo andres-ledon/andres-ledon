@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hey there! Welcome to my professional portfolio.
 
 <!--
 **andres-ledon/andres-ledon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
